@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Solidity-#363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
