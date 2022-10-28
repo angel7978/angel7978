@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel7978)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <span>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
